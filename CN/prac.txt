@@ -1,0 +1,11 @@
+*1. Implementation of Character Count Framing Technique
+*2. Implementation of Bit Stuffing Framing Technique
+*3. Implementation of Byte Stuffing Framing Technique
+*4. Implementation of CRC for error detection and find transmitted bit stream
+*5. Implementation of Hamming code for error correction
+*6. Program to define class of IP address and find its corresponding Subnet Address
+*7. RIP configuration using Packet Tracer
+*8. Socket Programming using TCP
+*9. Socket Programming using UDP
+*10.Shortest Path using Dijkstra's algorithm
+*11. Shortest Path using Distance Vector Routing
